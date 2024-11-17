@@ -1,0 +1,482 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "HTML is what type of language?",
+    "correct_answer": "Markup Language",
+    "incorrect_answers": [
+      "Macro Language",
+      "Programming Language",
+      "Scripting Language"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+    "correct_answer": "Nose",
+    "incorrect_answers": [
+      "Ears",
+      "Chin",
+      "Neck"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "In past times, what would a gentleman keep in his fob pocket?",
+    "correct_answer": "Watch",
+    "incorrect_answers": [
+      "Money",
+      "Keys",
+      "Notebook"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "In &quot;Star Trek: Voyager&quot;, which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+    "correct_answer": "Pathfinder",
+    "incorrect_answers": [
+      "Message In A Bottle",
+      "Someone To Watch Over Me",
+      "Counterpoint"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Cartoon &amp; Animations",
+    "question": "Who was the villain of &#039;&#039;The Lion King&#039;&#039;?",
+    "correct_answer": "Scar",
+    "incorrect_answers": [
+      "Fred",
+      "Jafar",
+      "Vada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Earth is located in which galaxy?",
+    "correct_answer": "The Milky Way Galaxy",
+    "incorrect_answers": [
+      "The Mars Galaxy",
+      "The Galaxy Note",
+      "The Black Hole"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "When did the CD begin to appear on the consumer market?",
+    "correct_answer": "1982",
+    "incorrect_answers": [
+      "1992",
+      "1972",
+      "1962"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
+    "correct_answer": "Ice",
+    "incorrect_answers": [
+      "Steel",
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What animation studio produced &quot;Gurren Lagann&quot;?",
+    "correct_answer": "Gainax",
+    "incorrect_answers": [
+      "Kyoto Animation",
+      "Pierrot",
+      "A-1 Pictures"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Which of these films is NOT set in Los Angeles?",
+    "correct_answer": "RoboCop",
+    "incorrect_answers": [
+      "Blade Runner",
+      "The Terminator",
+      "Predator 2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?",
+    "correct_answer": "Treyarch",
+    "incorrect_answers": [
+      "Sledgehammer Games",
+      "Infinity Ward",
+      "Naughty Dog"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+    "correct_answer": "Eleven",
+    "incorrect_answers": [
+      "Mike",
+      "Lucas",
+      "Karen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": "Eagle",
+    "incorrect_answers": [
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+    "correct_answer": "Justin Bieber",
+    "incorrect_answers": [
+      "Selena Gomez",
+      "Ellie Goulding",
+      "The Weeknd"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What colour is the circle on the Japanese flag?",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+      "White",
+      "Yellow",
+      "Black"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In &quot;Pheonix Wright: Ace Attorney&quot; which character is the District Chief of Police?",
+    "correct_answer": "Damon Gant",
+    "incorrect_answers": [
+      "Miles Edgeworth",
+      "Lana Skye",
+      "Mike Meekins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "What is the scientific name for modern day humans?",
+    "correct_answer": "Homo Sapiens",
+    "incorrect_answers": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+    "correct_answer": "Spy",
+    "incorrect_answers": [
+      "Heavy",
+      "Medic",
+      "Pyro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "What is the collective noun for a group of crows?",
+    "correct_answer": "Murder",
+    "incorrect_answers": [
+      "Pack",
+      "Gaggle",
+      "Herd"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "The Italian automaker Lamborghini uses what animal as its logo?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Bat",
+      "Horse",
+      "Snake"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In the game Dark Souls, what is the name of the region you&#039;re in for the majority of the game?",
+    "correct_answer": "Lordran",
+    "incorrect_answers": [
+      "Drangleic",
+      "Oolacile",
+      "Catarina"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "4",
+      "3",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which of the following car manufacturers had a war named after it?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+    "correct_answer": "Victory",
+    "incorrect_answers": [
+      "Courage",
+      "Strength",
+      "Honor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Brian May was the guitarist for which band?",
+    "correct_answer": "Queen",
+    "incorrect_answers": [
+      "Pink Floyd",
+      "Rolling Stones",
+      "The Doors"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "What round is a classic AK-47 chambered in?",
+    "correct_answer": "7.62x39mm",
+    "incorrect_answers": [
+      "7.62x51mm",
+      "5.56x45mm",
+      "5.45x39mm"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which water-type Pok&eacute;mon starter was introduced in the 4th generation of the series?",
+    "correct_answer": "Piplup",
+    "incorrect_answers": [
+      "Totodile",
+      "Oshawott",
+      "Mudkip"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which UK country features a dragon on their flag?",
+    "correct_answer": "Wales",
+    "incorrect_answers": [
+      "England",
+      "North Ireland",
+      "Scotland"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "What is the name of the talking cat in Persona 5?",
+    "correct_answer": "Morgana",
+    "incorrect_answers": [
+      "Teddie",
+      "Marie",
+      "Ryuji"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+    "correct_answer": "V",
+    "incorrect_answers": [
+      "X",
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+    "correct_answer": "Chloe Price ",
+    "incorrect_answers": [
+      "Max Caulfield",
+      "Rachel Amber",
+      "Frank Bowers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?",
+    "correct_answer": "Torquay",
+    "incorrect_answers": [
+      "Blackpool",
+      "Bournemouth",
+      "Great Yarmouth"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "correct_answer": "Cube",
+    "incorrect_answers": [
+      "Sphere",
+      "Cylinder",
+      "Pyramid"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+    "correct_answer": "Seinfeld",
+    "incorrect_answers": [
+      "Frasier",
+      "Becker",
+      "Friends"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
+    "correct_answer": "Marlon",
+    "incorrect_answers": [
+      "Marnie",
+      "Morris",
+      "Marvin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Which of these companies does NOT manufacture motorcycles?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Kawasaki",
+      "Yamaha"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science &amp; Nature",
+    "question": "What is the official name of the star located closest to the North Celestial Pole?",
+    "correct_answer": "Polaris",
+    "incorrect_answers": [
+      "Eridanus",
+      "Gamma Cephei",
+      "Iota Cephei"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Which one of the following rhythm games was made by Harmonix?",
+    "correct_answer": "Rock Band",
+    "incorrect_answers": [
+      "Meat Beat Mania",
+      "Guitar Hero Live",
+      "Dance Dance Revolution"
+    ]
+  }
+]
